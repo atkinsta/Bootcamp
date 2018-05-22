@@ -1,0 +1,55 @@
+body{
+    background-image: url("DoomBackground.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+h1{
+    font: bold italic 600% 'Titan One';
+    color: azure;
+    text-shadow: 5px 5px coral;
+    
+}
+
+
+h2{
+    font: 300% 'Titan One';
+    color: azure;
+
+}
+
+h2.x{
+    text-shadow: 4px 4px rgb(118, 32, 161);
+}
+
+h2.y{
+    text-shadow: 4px 4px rgb(68, 94, 23);
+}
+
+p{
+    font: 125% 'Open Sans';
+    color: azure;
+    line-height: 1.5;
+}
+
+p.a{
+    text-shadow: 2px 2px rgb(118, 32, 161);
+}
+
+p.b{
+    text-shadow: 2px 2px rgb(68, 94, 23);
+}
+
+ul{
+    font: 150% 'Open Sans';
+    color: azure;
+    text-shadow: 3px 3px rgb(68, 94, 23);
+}
+
+a{
+    font: 125% 'Open Sans';
+    color: azure;
+    line-height: 1.5;
+}
+

@@ -1,0 +1,24 @@
+HTML Code Errors in BooTheDog.html
+ 1. Fixed various spacing issues (lines and tabs) between divs and elements (whole document)
+ 2. Line 19: missing <h1> tag 
+ 3. Lines 40-51: put text in <p> tags, seperating each line. 
+ 4. Line 50: <a> tag was missing the wiki link after href=, added that
+ 5. Line 60: <img> tag did not have angled brackets <>
+ 6. Lines 84-88: Line items in ordered list were missing <li> tags
+ 7. Lines 100-102: id did not match color on button
+ 8. Line 125: errors.js is the wrong src file name, changed to logic.js
+
+ JavaScript Code Errors in logic.js
+ 1. Line 6: BooFacts array does not have each item in seperate quotes ("",)
+ 2. Line 13: Missing tab 
+ 3. Line 22: Spacing issue
+ 4. Line 9: "pink" was missing quotes
+ 5. Lines 24 and 25: "click" was missing quotes
+
+ CSS Code Errors in style.css
+ 1. None
+
+ Additional Errors: The pannels are in a different order on Boo's page, not sure
+                    if that matters or not. That's just as simple as re-arranging
+                    the blocks of code though. Not sure if you expected that to be
+                    done or not. Just letting you know that I noticed. 

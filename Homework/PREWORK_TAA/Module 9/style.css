@@ -1,0 +1,45 @@
+.centered{
+    text-align: center;
+}
+
+#red{
+    color: red;
+}
+
+#blue{
+    color: blue;
+}
+
+#green{
+    color: green;
+}
+
+#big{
+    font-size: 400%;
+}
+
+#tiny{
+    font-size: 25%
+}
+
+#weight{
+    font-weight: bold;
+}
+
+#font{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#multiple{
+    font: bold 300% Courier, monospace;
+    color: orange;
+}
+
+p.styledFont{
+    font: italic 20px Comic;
+    color: aquamarine;
+}
+
+#styledImage{
+    border: 5px dotted cyan
+}
