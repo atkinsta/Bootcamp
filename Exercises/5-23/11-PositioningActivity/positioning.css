@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+.fixed {
+    position: fixed;
+    width: 200px;
+    height: 80px;
+    background-color: aqua;
+    float: left;
+    z-index: 3;
+    top: 0;
+    left: 0;
+    text-align: center;
+    padding-top: 30px
+}
+
+h1, p, .relative{
+    width: 400px;
+    margin: 10px auto;
+
+}
+
+.relative {
+    position: relative;
+    height: 120px;
+    background-color: gray;
+    text-align: center;
+}
+
+.absolute {
+    position: absolute;
+    right: -20px;
+    bottom: 0px;
+    background-color: red;
+    width: 180px;
+    height: 60px;
+}
